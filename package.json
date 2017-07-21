@@ -1,0 +1,23 @@
+{
+  "name": "oop_js",
+  "version": "1.0.0",
+  "description": "OOP demonstration using tutorial company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-eshaibu/oop_js.git"
+  },
+  "keywords": [
+    "OOP",
+    "JS"
+  ],
+  "author": "Shaibu Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andela-eshaibu/oop_js/issues"
+  },
+  "homepage": "https://github.com/andela-eshaibu/oop_js#readme"
+}
